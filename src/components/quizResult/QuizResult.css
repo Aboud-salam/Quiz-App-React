@@ -1,0 +1,9 @@
+.result {
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 20px;
+  color: #000;
+  max-width: 800px;
+  margin: 100px auto 0;
+  text-align: center;
+}
